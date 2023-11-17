@@ -6,6 +6,16 @@ Some packages are:
 
 •pandas •sklearn •seaborn •datetime •xgboost •joblib
 
+→ Used tkinter for GUI
+  ⁕ This project  include 'GUI' , that is an easy-to-use application that lets you determine an car's market worth depending on its attributes.
+  
+    To produce an accurate price estimate, it makes use of a trained machine learning model to examine a number of variables, including present price, kilometres driven, fuel 
+    type, seller type, transmission, owner, and age. 
+
+
+
+
+
 → Description :
 ⁕ What this project does? 
  • The model uses machine learning techniques to find the most important features that influence automobile pricing. It is trained using a dataset of car prices and their 
